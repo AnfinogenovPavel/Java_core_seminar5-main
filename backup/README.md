@@ -57,7 +57,7 @@ public class BackupUtility {
 В нашем конкретном случае, для проверки работоспособности, будем использовать вместо "./source" путь "."
 В результате выполнения нашего кода в корне будет создана директория с именем "backup"
 
-![Backup_folder]([https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar5/main/src/main/resources/](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/tree/main/Backup.png)
+![Backup_folder](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/tree/main/Backup.png)
 
 ---
 
