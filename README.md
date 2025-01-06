@@ -1,6 +1,6 @@
 ﻿ # Java Core (семинары)
 
-![Backup](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/blob/main/src/main/resources/Backup.png)
+![Java Core](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/blob/main/src/main/resources/Java_core.jpg)
 
 ## Урок 5. Тонкости работы
 
@@ -55,7 +55,7 @@ public class BackupUtility {
 В нашем конкретном случае, для проверки работоспособности, будем использовать вместо "./source" путь "."
 В результате выполнения нашего кода в корне будет создана директория с именем ["backup"](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main/backup)
 
-![Backup_folder](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar5/main/src/main/resources/Backup.png)
+![Backup](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/blob/main/src/main/resources/Backup.png)
 
 ---
 
@@ -95,7 +95,7 @@ public class WriteToFile {
 Этот код создает массив gameBoard и записывает его значения в файл "tic-tac-toe_board.dat" с использованием DataOutputStream. 
 Обращаем внимание, что значения [0, 3] на самом деле представляют собой байты, и мы сами можем декодировать их при необходимости.
 
-![Size_for_tic-tac-toe_board](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar5/main/src/main/resources/size_for_tic-tac-toe_board.png)
+![Tic-Tac-Toe Board Size](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/blob/main/src/main/resources/size_for_tic-tac-toe_board.png)
 
 Теперь каждое значение записывается как байт, и всего 9 значений займут 9 байт, что соответствует требованиям задачи. 
 
