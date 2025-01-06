@@ -1,6 +1,6 @@
 ﻿ # Java Core (семинары)
 
-![picture for project](https://raw.githubusercontent.com/AnfinogenovPavel/Java_core_seminar5-main/main/src/main/resources/Backup.jpg)
+![picture for project](](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/tree/main/src/main/resources/Backup.png)
 
 ## Урок 5. Тонкости работы
 
