@@ -4,9 +4,6 @@
 
 ## Урок 5. Тонкости работы
 
-[к решению 1 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main#задача-1)  ||  [к решению 2 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main#решение-1)  ||  [перейти в папку Java](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main/src/main/java)
-
-
 ### Задача 1.
 
 Написать функцию, создающую резервную копию всех файлов в директории(без поддиректорий) во вновь созданную папку ./backup
@@ -56,10 +53,6 @@ public class BackupUtility {
 
 В нашем конкретном случае, для проверки работоспособности, будем использовать вместо "./source" путь "."
 В результате выполнения нашего кода в корне будет создана директория с именем "backup"
-
-![Backup_folder](https://github.com/AnfinogenovPavel/Java_core_seminar5-main/tree/main/Backup.png)
-
----
 
 
 ### Задача 2.
@@ -148,9 +141,3 @@ public class ReadFromFile {
 Однако расширение .dat часто ассоциируется с файлами данных в бинарном формате.
 
 В данном контексте, .dat может быть использован как сокращение от "data" (данные) и служить для обозначения файлов, содержащих бинарные данные. Это удобно для самопонятности и часто используется в программировании для подобных файлов.
-
-
----
-
-
-*Подготовил студент Geek Brains* [**`Терехов Александр`**](https://gb.ru/users/1db43d0f-6c3d-46d1-bf5e-974b49af6f0d), Java_core_seminar5
